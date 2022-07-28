@@ -1,0 +1,125 @@
+
+
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+/* INDEX */
+
+.back-ground-image{
+    width: 100%;
+    height: 100%;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+/* CLIENTES */
+
+.titulo-cl h1{
+    color: black;
+    font-size: 4rem;
+}
+
+.titulo-cl{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.paragrafo-cl{
+    margin: 2rem 4rem;
+}
+
+.paragrafo-cl p {
+    font-size: 1.1rem;
+}
+
+/* ------------------------------------------------------------------------------ */
+
+/* CONTATO */
+.titulo-ct h1{
+    color: black;
+    font-size: 4rem;
+}
+
+.titulo-ct{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+/* ----------------------------------------------------------------------------- */
+/* QUEM SOMOS */
+
+.paragrafo-qs{
+    margin: 2rem 4rem;
+}
+
+.paragrafo-qs p {
+    font-size: 1.3rem;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* REGIOES ATENDIDAS */
+
+.titulo-ra h1{
+    color: black;
+    font-size: 3rem;
+}
+
+.titulo-ra{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.img-mapa a{
+    margin: 2rem 0rem 4rem 0rem;
+    display: flex;
+    justify-content: center;
+}
+
+.img-google{
+    width: 55%;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* Serviços */
+
+.titulo-sv{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo-sv h1{
+    color: black;
+    font-size: 4rem;
+}
+
+.paragrafo-sv{
+    margin: 2rem 4rem;
+}
+
+.paragrafo-sv p {
+    font-size: 1.1rem;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* TECNOLOGIA */
+
+/* ------------------------------------------------------------------------------- */
+
+
+
